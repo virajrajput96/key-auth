@@ -3,12 +3,12 @@ version = "2.0-1"
 
 supported_platforms = {"linux", "macosx"}
 source = {
-  url = "git://github.com/eyolas/kong-plugin-key-auth-referer",
+  url = "git://github.com/virajrajput96/key-auth",
   tag = "v2.0"
 }
 
 description = {
-  summary = "The Hello World Plugin",
+  summary = "Key-Auth-Consumer  Plugin",
   license = "Apache 2.0",
   homepage = "https://github.com/virajrajput96/key-auth",
   detailed = [[
